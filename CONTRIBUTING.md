@@ -1,10 +1,5 @@
 # Contributing Guidelines
 
-All contributions are welcome.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-## You can contribute by:
-- Reporting bugs
-- Fixing bugs
-- Improving documentation
-- Adding enhancements
-- Suggesting ideas
+Please follow standard GitHub practices when contributing.
