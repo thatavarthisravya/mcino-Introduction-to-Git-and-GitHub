@@ -1,5 +1,14 @@
+git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+
+
+
+git merge bug-fix-typo
 Updating 77ca87b..18f74aa
 Fast-forward
  typo-fix.txt | 1 +
  1 file changed, 1 insertion(+)
  create mode 100644 typo-fix.txt
+
